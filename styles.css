@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+
+.header {
+    background-image: url(./images/portada.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: -webkit-center;
+    padding: 5em 0;
+}
+
+
+
+.header-perfil {
+    border-radius: 50%;
+    width: 100px;
+    vertical-align: top;
+    padding-top: 20px;
+}
+
+.name  {
+    font-size: 24px;
+    font-family: "Dosis" , sans-serif;
+}
+
+.ocupation {
+    font-size: 18px;
+    font-family: "Dosis", sans-serif;
+}
+
+.github-icon {
+    width: 30px;
+}
+
+.instagram-icon {
+    width: 30px;
+}
+
+.linkedin-icon {
+    width: 30px;
+}
+
+.header-icons {
+    display: inline-flex;
+}
+
+.hero {
+    text-align: -webkit-center;
+}
+.project-details {
+    text-align: center;
+    width: 300px;
+    
+}
